@@ -1,0 +1,69 @@
+C:\Users\user\Desktop\JAGIndexTest\MongoDB\bin\Release\MongoDB.dll
+C:\Users\user\Desktop\JAGIndexTest\MongoDB\bin\Release\MongoDB.pdb
+C:\Users\user\Desktop\JAGIndexTest\MongoDB\bin\Release\DnsClient.dll
+C:\Users\user\Desktop\JAGIndexTest\MongoDB\bin\Release\MongoDB.Bson.dll
+C:\Users\user\Desktop\JAGIndexTest\MongoDB\bin\Release\MongoDB.Driver.Core.dll
+C:\Users\user\Desktop\JAGIndexTest\MongoDB\bin\Release\MongoDB.Driver.dll
+C:\Users\user\Desktop\JAGIndexTest\MongoDB\bin\Release\MongoDB.Driver.Legacy.dll
+C:\Users\user\Desktop\JAGIndexTest\MongoDB\bin\Release\System.Buffers.dll
+C:\Users\user\Desktop\JAGIndexTest\MongoDB\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\JAGIndexTest\MongoDB\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Desktop\JAGIndexTest\MongoDB\bin\Release\System.Security.AccessControl.dll
+C:\Users\user\Desktop\JAGIndexTest\MongoDB\bin\Release\System.Security.Permissions.dll
+C:\Users\user\Desktop\JAGIndexTest\MongoDB\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\JAGIndexTest\MongoDB\bin\Release\DnsClient.xml
+C:\Users\user\Desktop\JAGIndexTest\MongoDB\bin\Release\MongoDB.Bson.xml
+C:\Users\user\Desktop\JAGIndexTest\MongoDB\bin\Release\MongoDB.Driver.xml
+C:\Users\user\Desktop\JAGIndexTest\MongoDB\bin\Release\MongoDB.Driver.Core.xml
+C:\Users\user\Desktop\JAGIndexTest\MongoDB\bin\Release\MongoDB.Driver.Legacy.xml
+C:\Users\user\Desktop\JAGIndexTest\MongoDB\obj\Release\MongoDB.csprojAssemblyReference.cache
+C:\Users\user\Desktop\JAGIndexTest\MongoDB\obj\Release\MongoDB.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\JAGIndexTest\MongoDB\obj\Release\MongoDB.csproj.CopyComplete
+C:\Users\user\Desktop\JAGIndexTest\MongoDB\obj\Release\MongoDB.dll
+C:\Users\user\Desktop\JAGIndexTest\MongoDB\obj\Release\MongoDB.pdb
+D:\My Libraries\MongoDB\MongoDB\bin\Release\MongoDB.dll
+D:\My Libraries\MongoDB\MongoDB\bin\Release\MongoDB.pdb
+D:\My Libraries\MongoDB\MongoDB\bin\Release\DnsClient.dll
+D:\My Libraries\MongoDB\MongoDB\bin\Release\MongoDB.Bson.dll
+D:\My Libraries\MongoDB\MongoDB\bin\Release\MongoDB.Driver.Core.dll
+D:\My Libraries\MongoDB\MongoDB\bin\Release\MongoDB.Driver.dll
+D:\My Libraries\MongoDB\MongoDB\bin\Release\MongoDB.Driver.Legacy.dll
+D:\My Libraries\MongoDB\MongoDB\bin\Release\System.Buffers.dll
+D:\My Libraries\MongoDB\MongoDB\bin\Release\System.Configuration.ConfigurationManager.dll
+D:\My Libraries\MongoDB\MongoDB\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\My Libraries\MongoDB\MongoDB\bin\Release\System.Security.AccessControl.dll
+D:\My Libraries\MongoDB\MongoDB\bin\Release\System.Security.Permissions.dll
+D:\My Libraries\MongoDB\MongoDB\bin\Release\System.Security.Principal.Windows.dll
+D:\My Libraries\MongoDB\MongoDB\bin\Release\DnsClient.xml
+D:\My Libraries\MongoDB\MongoDB\bin\Release\MongoDB.Bson.xml
+D:\My Libraries\MongoDB\MongoDB\bin\Release\MongoDB.Driver.xml
+D:\My Libraries\MongoDB\MongoDB\bin\Release\MongoDB.Driver.Core.xml
+D:\My Libraries\MongoDB\MongoDB\bin\Release\MongoDB.Driver.Legacy.xml
+D:\My Libraries\MongoDB\MongoDB\obj\Release\MongoDB.csprojAssemblyReference.cache
+D:\My Libraries\MongoDB\MongoDB\obj\Release\MongoDB.csproj.CoreCompileInputs.cache
+D:\My Libraries\MongoDB\MongoDB\obj\Release\MongoDB.csproj.CopyComplete
+D:\My Libraries\MongoDB\MongoDB\obj\Release\MongoDB.dll
+D:\My Libraries\MongoDB\MongoDB\obj\Release\MongoDB.pdb
+C:\Projects\MongoDB\MongoDB\bin\Release\MongoDB.dll
+C:\Projects\MongoDB\MongoDB\bin\Release\MongoDB.pdb
+C:\Projects\MongoDB\MongoDB\bin\Release\DnsClient.dll
+C:\Projects\MongoDB\MongoDB\bin\Release\MongoDB.Bson.dll
+C:\Projects\MongoDB\MongoDB\bin\Release\MongoDB.Driver.Core.dll
+C:\Projects\MongoDB\MongoDB\bin\Release\MongoDB.Driver.dll
+C:\Projects\MongoDB\MongoDB\bin\Release\MongoDB.Driver.Legacy.dll
+C:\Projects\MongoDB\MongoDB\bin\Release\System.Buffers.dll
+C:\Projects\MongoDB\MongoDB\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Projects\MongoDB\MongoDB\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projects\MongoDB\MongoDB\bin\Release\System.Security.AccessControl.dll
+C:\Projects\MongoDB\MongoDB\bin\Release\System.Security.Permissions.dll
+C:\Projects\MongoDB\MongoDB\bin\Release\System.Security.Principal.Windows.dll
+C:\Projects\MongoDB\MongoDB\bin\Release\DnsClient.xml
+C:\Projects\MongoDB\MongoDB\bin\Release\MongoDB.Bson.xml
+C:\Projects\MongoDB\MongoDB\bin\Release\MongoDB.Driver.xml
+C:\Projects\MongoDB\MongoDB\bin\Release\MongoDB.Driver.Core.xml
+C:\Projects\MongoDB\MongoDB\bin\Release\MongoDB.Driver.Legacy.xml
+C:\Projects\MongoDB\MongoDB\obj\Release\MongoDB.csprojAssemblyReference.cache
+C:\Projects\MongoDB\MongoDB\obj\Release\MongoDB.csproj.CoreCompileInputs.cache
+C:\Projects\MongoDB\MongoDB\obj\Release\MongoDB.csproj.CopyComplete
+C:\Projects\MongoDB\MongoDB\obj\Release\MongoDB.dll
+C:\Projects\MongoDB\MongoDB\obj\Release\MongoDB.pdb

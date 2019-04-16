@@ -1,0 +1,35 @@
+C:\Users\user\source\repos\MongoDBCore\MongoDBCore\bin\Release\netcoreapp2.1\MongoDBCore.deps.json
+C:\Users\user\source\repos\MongoDBCore\MongoDBCore\bin\Release\netcoreapp2.1\MongoDBCore.dll
+C:\Users\user\source\repos\MongoDBCore\MongoDBCore\bin\Release\netcoreapp2.1\MongoDBCore.pdb
+C:\Users\user\source\repos\MongoDBCore\MongoDBCore\obj\Release\netcoreapp2.1\MongoDBCore.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MongoDBCore\MongoDBCore\obj\Release\netcoreapp2.1\MongoDBCore.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MongoDBCore\MongoDBCore\obj\Release\netcoreapp2.1\MongoDBCore.AssemblyInfo.cs
+C:\Users\user\source\repos\MongoDBCore\MongoDBCore\obj\Release\netcoreapp2.1\MongoDBCore.dll
+C:\Users\user\source\repos\MongoDBCore\MongoDBCore\obj\Release\netcoreapp2.1\MongoDBCore.pdb
+C:\Users\user\Desktop\JAGIndexTest\MongoDBCore\bin\Release\netcoreapp2.1\MongoDBCore.deps.json
+C:\Users\user\Desktop\JAGIndexTest\MongoDBCore\bin\Release\netcoreapp2.1\MongoDBCore.dll
+C:\Users\user\Desktop\JAGIndexTest\MongoDBCore\bin\Release\netcoreapp2.1\MongoDBCore.pdb
+C:\Users\user\Desktop\JAGIndexTest\MongoDBCore\obj\Release\netcoreapp2.1\MongoDBCore.csprojAssemblyReference.cache
+C:\Users\user\Desktop\JAGIndexTest\MongoDBCore\obj\Release\netcoreapp2.1\MongoDBCore.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\JAGIndexTest\MongoDBCore\obj\Release\netcoreapp2.1\MongoDBCore.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\JAGIndexTest\MongoDBCore\obj\Release\netcoreapp2.1\MongoDBCore.AssemblyInfo.cs
+C:\Users\user\Desktop\JAGIndexTest\MongoDBCore\obj\Release\netcoreapp2.1\MongoDBCore.dll
+C:\Users\user\Desktop\JAGIndexTest\MongoDBCore\obj\Release\netcoreapp2.1\MongoDBCore.pdb
+D:\My Libraries\MongoDB\MongoDBCore\bin\Release\netcoreapp2.1\MongoDBCore.deps.json
+D:\My Libraries\MongoDB\MongoDBCore\bin\Release\netcoreapp2.1\MongoDBCore.dll
+D:\My Libraries\MongoDB\MongoDBCore\bin\Release\netcoreapp2.1\MongoDBCore.pdb
+D:\My Libraries\MongoDB\MongoDBCore\obj\Release\netcoreapp2.1\MongoDBCore.csprojAssemblyReference.cache
+D:\My Libraries\MongoDB\MongoDBCore\obj\Release\netcoreapp2.1\MongoDBCore.csproj.CoreCompileInputs.cache
+D:\My Libraries\MongoDB\MongoDBCore\obj\Release\netcoreapp2.1\MongoDBCore.AssemblyInfoInputs.cache
+D:\My Libraries\MongoDB\MongoDBCore\obj\Release\netcoreapp2.1\MongoDBCore.AssemblyInfo.cs
+D:\My Libraries\MongoDB\MongoDBCore\obj\Release\netcoreapp2.1\MongoDBCore.dll
+D:\My Libraries\MongoDB\MongoDBCore\obj\Release\netcoreapp2.1\MongoDBCore.pdb
+C:\Projects\MongoDB\MongoDBCore\bin\Release\netcoreapp2.1\MongoDBCore.deps.json
+C:\Projects\MongoDB\MongoDBCore\bin\Release\netcoreapp2.1\MongoDBCore.dll
+C:\Projects\MongoDB\MongoDBCore\bin\Release\netcoreapp2.1\MongoDBCore.pdb
+C:\Projects\MongoDB\MongoDBCore\obj\Release\netcoreapp2.1\MongoDBCore.csprojAssemblyReference.cache
+C:\Projects\MongoDB\MongoDBCore\obj\Release\netcoreapp2.1\MongoDBCore.csproj.CoreCompileInputs.cache
+C:\Projects\MongoDB\MongoDBCore\obj\Release\netcoreapp2.1\MongoDBCore.AssemblyInfoInputs.cache
+C:\Projects\MongoDB\MongoDBCore\obj\Release\netcoreapp2.1\MongoDBCore.AssemblyInfo.cs
+C:\Projects\MongoDB\MongoDBCore\obj\Release\netcoreapp2.1\MongoDBCore.dll
+C:\Projects\MongoDB\MongoDBCore\obj\Release\netcoreapp2.1\MongoDBCore.pdb
